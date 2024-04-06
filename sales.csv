@@ -1,0 +1,21 @@
+product_id,region,sales_quantity,profit_margin,average_price
+1,North America,500,0.15,150
+2,Europe,400,0.12,200
+3,Asia,600,0.18,180
+4,South America,300,0.10,250
+5,Africa,200,0.08,300
+6,Oceania,150,0.14,220
+7,North America,450,0.13,170
+8,Europe,350,0.11,190
+9,Asia,550,0.17,210
+10,South America,250,0.09,280
+11,Africa,180,0.07,320
+12,Oceania,130,0.15,230
+13,North America,480,0.14,160
+14,Europe,380,0.10,180
+15,Asia,580,0.16,200
+16,South America,270,0.08,270
+17,Africa,190,0.06,310
+18,Oceania,120,0.13,240
+19,North America,520,0.16,140
+20,Europe,420,0.13,170
