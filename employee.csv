@@ -1,0 +1,16 @@
+id,region,age,education,income,employment
+1,North,35,Bachelor's,60000,Manager
+4,East,40,Doctorate,100000,Doctor
+5,North,32,Bachelor's,55000,Analyst
+8,East,38,Doctorate,120000,Engineer
+9,North,27,Bachelor's,50000,Clerk
+12,East,42,Doctorate,110000,Engineer
+13,North,26,Bachelor's,48000,Clerk
+16,East,39,Doctorate,130000,Engineer
+17,North,24,Bachelor's,45000,Clerk
+20,East,45,Doctorate,140000,Engineer
+21,North,22,Bachelor's,42000,Clerk
+24,East,48,Doctorate,150000,Engineer
+25,North,25,Bachelor's,48000,Clerk
+28,East,50,Doctorate,160000,Engineer
+29,North,23,Bachelor's,43000,Clerk
