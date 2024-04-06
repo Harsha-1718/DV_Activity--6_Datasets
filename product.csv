@@ -1,0 +1,18 @@
+product, sales, revenue, profit_margin
+Laptop, 1000, 500000, 0.15
+Smartphone, 1500, 300000, 0.12
+Tablet, 800, 200000, 0.10
+TV, 600, 800000, 0.20
+Headphones, 1200, 100000, 0.08
+Desktop, 700, 350000, 0.18
+Camera, 900, 180000, 0.09
+Smartwatch, 1100, 220000, 0.14
+Gaming Console, 400, 600000, 0.25
+Printer, 1000, 120000, 0.05
+Microphone, 800, 160000, 0.07
+Speaker System, 700, 140000, 0.12
+External Hard Drive, 1200, 240000, 0.15
+Wireless Router, 1500, 135000, 0.11
+E-reader, 600, 90000, 0.06
+Graphics Card, 500, 300000, 0.22
+Virtual Reality Headset, 300, 180000, 0.17
